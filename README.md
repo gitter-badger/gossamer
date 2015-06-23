@@ -6,6 +6,8 @@ will be on our platform and processes to build our platform, which we want to ev
 
 #### Setup
 
+[![Join the chat at https://gitter.im/hellojwilde/gossamer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hellojwilde/gossamer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ```
 npm install
 npm start
